@@ -1,3 +1,9 @@
+# START
+
+npm create vite@latest
+
+
+
 # NEW ESLINT
 - 
 rules: {
